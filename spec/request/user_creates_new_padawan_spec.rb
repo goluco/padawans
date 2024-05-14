@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "Widget management", type: :request do
+RSpec.describe "New Padawan", type: :request do
   describe 'Cria novo padawan' do
     it 'com sucesso' do
       #Act
